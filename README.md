@@ -137,7 +137,7 @@ Three techniques were applied:
 - `class_weight="balanced"` for Logistic Regression and Random Forest
 - `scale_pos_weight=2.00` for XGBoost (computed from actual training distribution)
 - ROC-AUC as the primary metric (insensitive to class imbalance)
-
+![dashboard](reports/figures/churn_3model_comparison.png)
 ---
 
 ## 🧠 The Machine Learning
