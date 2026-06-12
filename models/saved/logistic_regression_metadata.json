@@ -1,0 +1,23 @@
+{
+  "model_key": "logistic_regression",
+  "display_name": "Logistic Regression",
+  "feature_columns": [
+    "TotalRevenue",
+    "TotalOrders",
+    "TotalItems",
+    "AvgLineItemRevenue",
+    "BasketValue",
+    "RevenuePerItem",
+    "UniqueProducts",
+    "UniqueCountries",
+    "Tenure",
+    "AvgDaysBetween"
+  ],
+  "churn_threshold_days": 90,
+  "cv_auc_mean": 0.79151,
+  "cv_auc_std": 0.017074,
+  "train_time_seconds": 0.0235,
+  "test_auc": 0.770329,
+  "recall_churn": 0.785467,
+  "precision_churn": 0.518265
+}

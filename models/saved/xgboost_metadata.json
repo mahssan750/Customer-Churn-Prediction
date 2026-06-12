@@ -1,0 +1,23 @@
+{
+  "model_key": "xgboost",
+  "display_name": "XGBoost",
+  "feature_columns": [
+    "TotalRevenue",
+    "TotalOrders",
+    "TotalItems",
+    "AvgLineItemRevenue",
+    "BasketValue",
+    "RevenuePerItem",
+    "UniqueProducts",
+    "UniqueCountries",
+    "Tenure",
+    "AvgDaysBetween"
+  ],
+  "churn_threshold_days": 90,
+  "cv_auc_mean": 0.78326,
+  "cv_auc_std": 0.011077,
+  "train_time_seconds": 0.1767,
+  "test_auc": 0.784917,
+  "recall_churn": 0.809689,
+  "precision_churn": 0.522321
+}

@@ -1,0 +1,23 @@
+{
+  "model_key": "random_forest",
+  "display_name": "Random Forest",
+  "feature_columns": [
+    "TotalRevenue",
+    "TotalOrders",
+    "TotalItems",
+    "AvgLineItemRevenue",
+    "BasketValue",
+    "RevenuePerItem",
+    "UniqueProducts",
+    "UniqueCountries",
+    "Tenure",
+    "AvgDaysBetween"
+  ],
+  "churn_threshold_days": 90,
+  "cv_auc_mean": 0.795822,
+  "cv_auc_std": 0.016352,
+  "train_time_seconds": 0.5509,
+  "test_auc": 0.783609,
+  "recall_churn": 0.778547,
+  "precision_churn": 0.551471
+}
