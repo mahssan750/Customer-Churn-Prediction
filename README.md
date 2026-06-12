@@ -37,7 +37,7 @@ Every customer receives a churn probability (0–100%) and a **risk tier** so th
 
 > Trained and evaluated on the [UCI Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) — 397,924 real UK e-commerce transactions from 4,338 customers.
 
-  ## if not familiar with ML concepts pelase skip Model Comparison and head to " What these numbers mean for the business "
+  ## Please **If not** familiar with ML concepts pelase skip Next table and head to " What these numbers mean for the business "
 #### Model Comparison — Hold-Out Test Set
 
 | Model | CV AUC | Test AUC | Avg Precision | Precision | Recall | F1 | Train Time |
