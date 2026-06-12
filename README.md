@@ -1,3 +1,4 @@
+<div align="center">
 # Customer-Churn-Prediction
 Identify at-risk Customers Before They Leave — Machine Learning Project Using Real e-commerce Data
 ---
