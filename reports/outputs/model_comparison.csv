@@ -1,0 +1,4 @@
+Model,CV AUC,Test AUC,Avg Precision,Precision (Churn),Recall (Churn),F1 (Churn),Train Time (s)
+Logistic Regression,0.7915 ± 0.0171,0.7703,0.5685,0.5183,0.7855,0.6245,0.024
+Random Forest,0.7958 ± 0.0164,0.7836,0.5896,0.5515,0.7785,0.6456,0.551
+XGBoost,0.7833 ± 0.0111,0.7849,0.5937,0.5223,0.8097,0.635,0.177
