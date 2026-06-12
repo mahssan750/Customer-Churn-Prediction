@@ -1,5 +1,6 @@
 # Customer-Churn-Prediction
-Identify at-risk Customers Before They Leave — Machine Learning Project Using Real e-commerce Data 
+Identify at-risk Customers Before They Leave — Machine Learning Project Using Real e-commerce Data
+
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-FF6600?style=flat)](https://xgboost.readthedocs.io)
